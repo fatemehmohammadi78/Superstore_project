@@ -52,6 +52,6 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 ## Acknowledgments
 Special thanks to:
-- The Transfermarkt website for providing valuable data for analysis.
-- Open-source libraries and frameworks used in this project.
+- Power BI for data visualization and analysis capabilities.
+- Open-source libraries and frameworks used in this project
 -  [*Hossein JourEbrahimian*](https://github.com/H055EIN) and [*Amirhossein Sharifinezhad*](https://github.com/Powerostad) for their contributions and efforts in developing this project.
